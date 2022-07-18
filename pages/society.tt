@@ -36,8 +36,6 @@ title = "$society.name"
 
 [%~ IF events.size > 0 %]
 
-[% PROCESS coronavirus.tt %]
-
 [% PROCESS online_events_list.tt FILTER indent 6 %]
 
 [%~ ELSE %]

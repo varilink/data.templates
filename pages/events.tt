@@ -80,8 +80,6 @@ title = 'Events Listing'
 
       </div>
 
-[% PROCESS coronavirus.tt %]
-
 [%-#----------------------------------------------------------------------------
 
   # Include a hidden copy of the listing in tabular format to cut and paste for

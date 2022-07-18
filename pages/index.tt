@@ -229,8 +229,6 @@
 			<br>
 			<br>
 
-[% PROCESS coronavirus.tt %]
-
 			<h2 id="coming_events">Coming Events</h2>
 
 			<p class="lead">
